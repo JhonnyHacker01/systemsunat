@@ -35,5 +35,5 @@ Desarrollar una aplicación web que permita registrar, controlar y reportar inve
 
 1. Clona el repositorio:
 ```bash
-git clone https://github.com/tuusuario/huv.git
+git clone https://github.com/JhonnyHacker01/systemsunat.git
 cd huv
